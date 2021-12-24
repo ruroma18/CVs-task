@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+main {
+  width: 70vh;
+  margin: 0 auto;
+}
+
+.heading {
+  padding-bottom: 20px;
+  color: blue;
+}
+
+.img-container,
+.main-information {
+  display: inline-block;
+  padding: 10px 20px;
+  vertical-align: top;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.detail-info {
+  display: block;
+  padding: 0 0 10px 30px;
+}

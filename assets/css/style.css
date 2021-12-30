@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+h1 {
+  text-align: center;
+}
+
 main {
   width: 70vh;
   margin: 0 auto;
